@@ -6,7 +6,7 @@ main:
     url: /review/
 
 
+  - title: "Posts"
+    url: /posts/
 
-  - title: Blog
-  url: /posts/
    
