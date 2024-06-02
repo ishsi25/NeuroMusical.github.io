@@ -5,6 +5,8 @@ main:
   - title: Review Papers
     url: /review/
 
+  - title: About
+    url: /about/
 
   - title: "Posts"
     url: /posts/
