@@ -19,7 +19,7 @@ tags:
     
 ## links: 
 
-https://web.archive.org/web/20240609153104/https://neuromusical.github.io/blog/Linguistics/
+[First escrowed](https://web.archive.org/web/20240609153104/https://neuromusical.github.io/blog/Linguistics/)
 
 
 
