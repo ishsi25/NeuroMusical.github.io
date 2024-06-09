@@ -12,8 +12,38 @@ tags:
   - Neurons
   - Neurotransmitters 
 ---
-# Introduction and Overview 
-Neuroscience delves into the biological underpinnings of human cognition and behavior.
-At its core are neurons, the nerve cells that transmit information through electrical and chemical signals. These signals rely on neurotransmitters, such as dopamine and serotonin, which sculpt our mental landscape.The brain's structure comprises various regions, each with specific functions. The cerebral cortex handles complex cognition, while the limbic system manages emotions and memory. Glial cells provide support and nourishment to neurons, essential for brain health.Central to neuroscience is neuroplasticity, the brain's ability to rewire itself in response to experiences. This dynamic process underlies learning, memory, and recovery from injury.Genetics and epigenetics shape brain development and function, influencing susceptibility to neurological disorders. Understanding these biological aspects offers insights into the complexities of the human brain, paving the way for innovative therapies and discoveries.
-## Heading 2
-body
+# Introduction and Overview: 
+Neuroscience explores how the brain and nervous system influence our thoughts, emotions, and actions. Examining the biological aspects of our thoughts and behavior helps us understand how neural processes work.
+
+## Brain Structure:
+- **Cerebrum**
+  - The cerebrum is the largest part of the brain.
+  - Divided into left and right hemispheres.
+  - Contains the cerebral cortex, which is involved in complex processes like perception, reasoning, and memory.
+
+- **Cerebellum**
+  - Located at the back of the brain.
+  - Coordinates voluntary movements like balance, coordination, and speech.
+
+- **Brainstem**
+  - Connects the brain to the spinal cord.
+  - The main functions are controlling heart rate, breathing, and sleep cycles.
+  - Composed of the midbrain, pons, and medulla oblongata.
+
+- **Thalamus**
+  - Located near the center of the brain.
+  - Acts as a relay station for sensory and motor signals to the cerebral cortex.
+
+- **Hypothalamus**
+  - Located below the thalamus.
+  - Regulates body temperature, hunger, thirst, and circadian rhythms.
+  - Controls the endocrine system through the pituitary gland.
+
+- **Limbic System**
+  - A group of interconnected structures including the hippocampus, amygdala, and cingulate gyrus.
+  - Involved in emotion, memory, and motivation.
+    
+- **Corpus Callosum**
+  - A large bundle of nerve fibers that connects the left and right hemispheres of the brain.
+  - Helps with communication between the left and right hemispheres.
+
