@@ -46,4 +46,16 @@ Neuroscience explores how the brain and nervous system influence our thoughts, e
 - **Corpus Callosum**
   - A large bundle of nerve fibers that connects the left and right hemispheres of the brain.
   - Helps with communication between the left and right hemispheres.
+ 
+## **Neurons**:
+  - Neurons are the basic structure of communication. 
+  - Neurons communicate through action potentials.
+  - Action potentials are a series of electrical impulses that travel down the axon and trigger the release of neurotransmitters at the synapse.
+  - Glial cells provide support and insulation for neurons.
+    
+## **Neurotransmitters**:
+  - Neurotransmitter imbalances are implicated in various neurological and psychiatric disorders.
+  - They can be inhibitory and exciatory.
+  - Example of some neurotransmitters include dopamine and norepinephrine. 
+  - Psychotropic medications target neurotransmitter systems to alleviate symptoms of mental illness.
 
