@@ -16,5 +16,10 @@ tags:
 ## **Language Disorders**:
   - Aphasia, caused by brain damage typically from stroke or trauma, affects language abilities such as speaking, understanding, reading, and writing.
   - Dyslexia involves difficulties with reading and spelling despite normal intelligence and sensory abilities
+    
+## links: 
+
+https://web.archive.org/web/20240609153104/https://neuromusical.github.io/blog/Linguistics/
+
 
 
