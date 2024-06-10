@@ -85,7 +85,7 @@ The information presented here has been generated using advanced artificial inte
  Selective Mutism:
    - An anxiety disorder where a person who can speak normally in some situations is unable to speak in others, often seen in children.
 
- Communication Strategies and Interventions:
+ Communication Strategies and Interventions: 
     - Speech therapy: Tailored exercises and practices to improve language abilities.
     - Assistive technology: Devices like speech-generating tools for those with severe speech impairments.
     - Behavioral therapy: Techniques to improve communication skills, especially in conditions like ASD.
