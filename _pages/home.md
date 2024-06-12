@@ -11,7 +11,8 @@ header:
       url: "/join-us/"
 excerpt:
   <b>This is an NeuroMusical™ site<br>
-  meant for academic purposes</b><br>
+  <b>Made by Ishani Singh <be> </b>
+  (meant for academic purposes)<br>
   <small>
   <a href="about/">More about NeuroMusical™  </a>
   </small>
