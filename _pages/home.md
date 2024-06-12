@@ -25,7 +25,7 @@ feature_row:
     url: "/learn/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/image2.jpg
+  - image_path: /assets/images/project.jpeg
     alt: "Highlight2"
     title: "Project"
     excerpt: " Using NeuroMusical I will be able to showcase my current projects and future prospects while receiving feedback.<br><br><br>"
