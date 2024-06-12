@@ -5,7 +5,7 @@ hidden: true
 title: NeuroMusical™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
+  overlay_image: https://lsom.uthscsa.edu/cbn/wp-content/uploads/sites/149/2021/06/CBN-Banner.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
