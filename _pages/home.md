@@ -32,7 +32,7 @@ feature_row:
     url: "/fork/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/image3.jpg
+  - image_path: /assets/images/blog.jpeg
     alt: "Highlight3"
     title: "Blog"
     excerpt: " Through NeuroMusical I will be able to share articles, updates, and personal reflections on your research journey.<br><br><br>"
