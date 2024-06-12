@@ -41,7 +41,7 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://i.gifer.com/Cad.gif" webkitallowfullscreen="false" width="100%" height="77"></iframe>
+<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://clipart-library.com/images/ki85a7p4T.gif" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
 {% include feature_row %}
 
