@@ -17,7 +17,7 @@ excerpt:
   <a href="about/">More about NeuroMusical™  </a>
   </small>
 feature_row:
-  - image_path: /assets/images/image1.jpg
+  - image_path: /assets/images/learning.jpeg
     alt: "Highlight1"
     title: "Learn"
     excerpt: "All you need to do is just take 2 minutes of your time and that's all for a fork. Ofcourse, a bit longer to learn, try out a free course [here](https://ayeai.xyz/site/courses/github-pages-site-in-2-minutes-with-ayepages/)
