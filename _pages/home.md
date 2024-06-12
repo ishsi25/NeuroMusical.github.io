@@ -27,8 +27,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/image2.jpg
     alt: "Highlight2"
-    title: "Fork"
-    excerpt: " With NeuroMusical it is simpler to customise your GitHub Pages site as per your choice, just a fork would serve the purpose<br><br><br>"
+    title: "Project
+    excerpt: " Using NeuroMusical I will be able to showcase my current projects and future prospects while receiving feedback.<br><br><br>"
     url: "/fork/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
