@@ -5,7 +5,7 @@ hidden: true
 title: NeuroMusical™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://lsom.uthscsa.edu/cbn/wp-content/uploads/sites/149/2021/06/CBN-Banner.jpg
+  overlay_image: https://brainjusticeny.com/wp-content/uploads/e9-flomenhaft-banner-about-us.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
