@@ -34,8 +34,8 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/image3.jpg
     alt: "Highlight3"
-    title: "Deploy"
-    excerpt: " NeuroMusical is flexible and you can adopt it as per needs and choices. You may use it as blog, personal profile, information site and it's your choice!<br><br><br>"
+    title: "Blog"
+    excerpt: " Through NeuroMusical I will be able to share articles, updates, and personal reflections on your research journey.<br><br><br>"
     url: "/deploy/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
