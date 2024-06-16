@@ -1,7 +1,9 @@
+---
 title: "Autodidactic"
 excerpt: "Elevate learning through self-guided study and research, fueled by prestigious resources and rigorous inquiry."
 sitemap: true
-permalink: /autodidactic
+permalink: /autodidactic/
+---
 
 ### Extended Plan for Autodidactic Learning and Research
 
