@@ -89,6 +89,8 @@ The information presented here has been generated using advanced artificial inte
    - Speech therapy: Tailored exercises and practices to improve language abilities.
    - Assistive technology: Devices like speech-generating tools for those with severe speech impairments.
    - Behavioral therapy: Techniques to improve communication skills, especially in conditions like ASD.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSFIHlYiKDDaF6gweTRFoYjGwYr2eaH4jJshEOYMjVi5NtVZ7hJBeQYyXV8jP3AQptkds5_v9hkosr/embed?start=true&loop=true&delayms=1000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     
 ## Links: 
 
