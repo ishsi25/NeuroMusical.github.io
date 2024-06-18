@@ -61,8 +61,8 @@ Neuroscience explores how the brain and nervous system influence our thoughts, e
 
 ## Models 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSFIHlYiKDDaF6gweTRFoYjGwYr2eaH4jJshEOYMjVi5NtVZ7hJBeQYyXV8jP3AQptkds5_v9hkosr/embed?start=true&loop=true&delayms=1000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSSDv7tUPt7Nd0TYaYsDui81wlL5vVppRV_xT612OqKxtOwbswjpWyPuc4x_LlGHPV1UEH4Ky7XKE5/pub?start=false&loop=false&delayms=10000
+" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsf5NdxfzhHHJJiHdSgveHV-h1bio68Iv5yNRwybJFM6M8_wKYfo3IR6oj8WSKYhCkyghF3IODF1a3/pub?start=false&loop=false&delayms=15000&slide=id.g273c5e481bf_0_62" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
