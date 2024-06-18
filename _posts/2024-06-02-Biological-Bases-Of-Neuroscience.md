@@ -60,5 +60,5 @@ Neuroscience explores how the brain and nervous system influence our thoughts, e
   - Psychotropic medications target neurotransmitter systems to alleviate symptoms of mental illness.
 
 ## Models 
- 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsf5NdxfzhHHJJiHdSgveHV-h1bio68Iv5yNRwybJFM6M8_wKYfo3IR6oj8WSKYhCkyghF3IODF1a3/pub?start=false&loop=false&delayms=15000&slide=id.p" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSFIHlYiKDDaF6gweTRFoYjGwYr2eaH4jJshEOYMjVi5NtVZ7hJBeQYyXV8jP3AQptkds5_v9hkosr/embed?start=true&loop=true&delayms=1000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
