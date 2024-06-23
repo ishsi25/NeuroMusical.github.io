@@ -3,10 +3,10 @@ permalink: /team/
 title: NeuroMusical Team
 feature_row:
   - image_path: https://obonac.github.io/NeuroMusical.github.io/assets/images/neuron1.png
-    alt: "I G S [place your name here] (avatar image)"
-    title: "I G S [place your name here]"
-    excerpt: "Founding Architect & Convenor"
-    url: "/team/#Abhishek-Choudhary"
+    alt: "I G S (avatar image)"
+    title: "I G S"
+    excerpt: "Author - NeuroMusical"
+    url: "/team/#I-G-S"
     btn_class: "btn--primary"
     btn_label: "Profile"
 ---
@@ -17,8 +17,8 @@ feature_row:
 
 <img src="https://obonac.github.io/NeuroMusical.github.io/assets/images/neuron1.png" alttext="I G S (avatar image)" width="300" height="300">
 
-## I G S [place your name here]
-### Founding Architect & Convenor
+## I G S
+### Author - NeuroMusical
 #### @ishsi25
 
 `I G S` is a high school student exploring neuroscience...
