@@ -11,7 +11,7 @@ feature_row:
     btn_label: "Profile"
 ---
 
-# Partners in Inclusive Development through Cognitization
+# Partners in NeuroMusical research initiatives
 #### NeuroMusical  is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
