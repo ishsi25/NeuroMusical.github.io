@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is  an NeuroMusical™ site meant for academic purposes
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
