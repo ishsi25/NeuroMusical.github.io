@@ -18,7 +18,7 @@ feature_row:
 
 <img src="https://ayeai.xyz/site/wp-content/uploads/2019/09/cropped-AyeAI-logo-cropped-tm-150x150-v2.0.svg-1.png" alttext="AyeAI (avatar image)" width="300" height="300">
 
-## NeuroMusical <sub>India</sub>
+## NeuroMusical <sub>A research initiative</sub>
 ### NeuroMusical
 #### @ishsi25
 
