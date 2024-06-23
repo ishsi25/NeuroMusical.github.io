@@ -2,7 +2,7 @@
 permalink: /team/
 title: NeuroMusical Team
 feature_row:
-  - image_path: https://projectvikram.github.io/restricted_assets/images/ac_photo.jpg
+  - image_path: https://obonac.github.io/NeuroMusical.github.io/restricted_assets/images/ac_photo.jpg
     alt: "I G S [place your name here] (avatar image)"
     title: "I G S [place your name here]"
     excerpt: "Founding Architect & Convenor"
