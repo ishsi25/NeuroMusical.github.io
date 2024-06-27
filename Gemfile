@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the sites via {{ site.myvariable }}.
-title: NeuroMusical™ 
+title: NeuroMusical 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is  an NeuroMusical™ site meant for academic purposes
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
