@@ -78,3 +78,6 @@ Philosophy is a broad field of study discussing fundamental questions about exis
 - Logical Methods:
   - Employs various methods to analyze and evaluate arguments.
   - Aims to clarify concepts, uncover assumptions, and detect inconsistencies or contradictions.
+ 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWvUFAA3rsEmgCRSk4vOTxUucEwlWAVtV9QZncTaUFHhCpRaG6-bvYkcnfF-1MsJMLhWdLED0YxRaN/pub?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+

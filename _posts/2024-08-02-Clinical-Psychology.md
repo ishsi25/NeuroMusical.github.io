@@ -58,3 +58,7 @@ Clinical psychology is an important field to understand, diagnose, and treat men
  - Rorschach Inkblot Test:
      - A projective psychological test consisting of 10 inkblots printed on cards.
      - It's used to assess an individual's personality structure and identify underlying thought disorders.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTC83wW4FydwmYAPoTNylfpYxgKSi8EuEZd5JwybqAZbs7QqNzLv6prY5z956w5-8ix7_Y9TpJvj9oU/pub?start=false&loop=false&delayms=10000
+" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+

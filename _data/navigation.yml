@@ -1,6 +1,6 @@
 main:
   - title: NeuroMusical
-    url: https://neuromusical.github.io/
+    url: /
     
   - title: Review Papers
     url: /review/
@@ -10,5 +10,10 @@ main:
 
   - title: "Posts"
     url: /posts/
-
    
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Autodidactic Learning"
+    url: /autodidactic/
+
